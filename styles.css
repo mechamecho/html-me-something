@@ -1,0 +1,70 @@
+
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+h1{margin:100px 100px 50px 400px;
+	color:#f9b5b5;
+	font-family: Trebuchet;
+
+}
+h4{font-size: 25px
+
+}
+body{background-color:#fa8072;
+	 color:	#380949;
+	 
+}
+
+p{text-align:left;
+  width:600px;
+  margin:0 0 0 20px;
+  font-size: 20px
+
+}
+
+img{padding:2px 2px 2px 2px;
+	border:5px solid #b66660;
+	border-radius:5px;
+	width:400px;
+	height:400px;
+
+}
+
+span{
+	background-color: #361f1f;
+	color:#f9b5b5;
+	margin:auto;
+	border:4px hashed #b66660;
+	border-radius: 5px
+}
+#anime{color:#800000;
+	   font-family:sans-serif;
+	   text-decoration: underline;
+}
+
+#verticalborder{margin-right: 0px;
+				margin-left:800px;
+				margin-top: 0px;
+				margin-bottom: 0px;
+				height:1000px;
+				width:300px;
+
+}
+
